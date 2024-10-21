@@ -1,0 +1,26 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: lightcyan;
+}
+h1{
+    text-align: center;
+    text-decoration:overline;
+}
+.subtitle{
+    margin-left: 50px;
+    font-weight: bolder;
+}
+li{
+    list-style-type:none;
+}
+p{
+    font-weight: lighter;
+}
+
+a{
+    font-weight: bold;
+    color:cadetblue;
+    text-decoration:solid;
+}

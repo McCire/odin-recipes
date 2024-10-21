@@ -1,0 +1,8 @@
+li{
+    list-style-type:disc;
+}
+img{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 15px;
+}
